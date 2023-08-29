@@ -12,3 +12,8 @@
 
 ##### Regression Mode Used:
 - RandomForest Regressor
+
+
+
+  # By Nitesh Ghimire st124453
+- 
