@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  web:
+    command: python3 index.py
+    image: st124453/ait-ml-dash-assign2:a2.0.0
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - HOST=0.0.0.0
+      - PORT=80
+    ports:
+      - 4000:80
+    

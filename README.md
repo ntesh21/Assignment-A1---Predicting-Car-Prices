@@ -15,5 +15,18 @@
 
 
 
-  # By Nitesh Ghimire st124453
-- 
+### Assignment 2
+
+##### Task 1
+##### Function to compute R2
+
+### Linear Regression Class
+
+##### Changes made from original class 
+
+- Added method to initialze weight (zero , Xavier) ==> "initialize"
+- Added method to calculate the  gradients with or without momentum ==> apply_momentum
+- Added method to plot the features according to their co_efficients ==> plot_feature_importance
+
+
+### All the changes could be found at **ml_assignment.ipynb**

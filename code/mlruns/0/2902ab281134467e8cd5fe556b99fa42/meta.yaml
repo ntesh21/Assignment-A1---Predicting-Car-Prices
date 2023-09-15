@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Desktop/Assignment-A1---Predicting-Car-Prices/code/mlruns/0/2902ab281134467e8cd5fe556b99fa42/artifacts
+end_time: 1694766341335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2902ab281134467e8cd5fe556b99fa42
+run_name: Predict car features old [ 10.  33.  44. 444.]
+run_uuid: 2902ab281134467e8cd5fe556b99fa42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694766341331
+status: 3
+tags: []
+user_id: user
